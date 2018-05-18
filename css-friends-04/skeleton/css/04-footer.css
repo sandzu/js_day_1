@@ -1,0 +1,21 @@
+/* PHASE 4: Footer */
+.footer{
+}
+
+.footer-nav{
+  width: 900px;
+  display: flex; 
+  justify-content: space-between;
+  margin: 0 auto;
+  border: #ccc;
+  border-top: none;
+  background: white;
+}
+
+.footer-copyright{
+  
+}
+.footer-links{
+  
+  
+}
